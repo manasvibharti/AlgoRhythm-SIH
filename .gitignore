@@ -1,0 +1,17 @@
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+.vscode/
+.idea/
+
+# Node & Package Managers
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Build and temp
+dist/
+tmp/
+*.log
