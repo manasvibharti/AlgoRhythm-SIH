@@ -1,1 +1,1 @@
-# AlgoRhythms-SIH26130
+# AlgoRhythms-SIH
